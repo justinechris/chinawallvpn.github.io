@@ -164,7 +164,7 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 
 总的来说，ExpressVPN在中国的使用还是比较简单的，大部分情况下按照默认设置就能正常连接和使用。不过，如果你能掌握了ExpressVPN的这些小技巧，在遇到问题时就可以快速解决，从而获得更好的使用体验。
 
-<p align="center"><a href="https://wallvpn.com/go/expressvpn/">访问StrongVPN官网</a></p>
+<p align="center"><a href="https://wallvpn.com/go/expressvpn/">访问ExpressVPN官网</a></p>
 
 ****
 
