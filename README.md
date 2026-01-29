@@ -85,7 +85,13 @@ OK，当完成付款后，你就收到一封确认邮件，邮件中包含你刚
 
 ### 如何下载StrongVPN APP客户端?
 
-StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。如果你使用的是Windows、Mac或Android设备，只需打开StrongVPN官网，选择适用于你设备的APP客户端，并按照系统提示操作即可轻松完成下载和安装，非常简单，没什么好说的。但如果你使用的是苹果iOS设备，则必须先获取一个海外Apple ID账号，才能顺利下载StrongVPN iOS客户端。关于国内用户如何获取海外Apple ID账号的具体方法，请参考：<a href="https://wallvpn.com/apple-id/">国外/美国苹果ID账号</a>。
+StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。
+
+如果你使用的是Windows、Mac或Android设备，只需打开StrongVPN官网，选择适用于你设备的APP客户端，并按照系统提示操作即可轻松完成下载和安装，非常简单，没什么好说的。
+
+但如果你使用的是苹果iOS设备，则必须先获取一个海外Apple ID账号，才能顺利下载StrongVPN iOS客户端。
+
+关于国内用户如何获取海外Apple ID账号的具体方法，请参考：<a href="https://wallvpn.com/apple-id/">国外/美国苹果ID账号</a>。
 
 <p align="center"><a href="https://wallvpn.com/go/strong-vpn/">访问StrongVPN官网</a></p>
 
