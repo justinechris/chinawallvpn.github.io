@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2026年中国大陆最好用的VPN排行！</p>
 
-<p align="center">最近更新于：2026年1月31日</p>
+<p align="center">最近更新于：2026年2月1日</p>
 
 **重要提示**：本文推荐的中国VPN，主要用于帮助大陆用户翻墙访问Google、Facebook、Telegram、YouTube、Netflix、ChatGPT等海外网站。如果你身在海外，想要从国外翻墙回国，访问腾讯视频、爱奇艺、网易云音乐、QQ音乐、抖音、王者荣耀等国内平台，请参考：<a href="https://github.com/chinawallvpn/vpn-into-china">回国VPN推荐</a>！
 
@@ -85,9 +85,9 @@ OK，当完成付款后，你就收到一封确认邮件，邮件中包含你刚
 
 ### 如何下载StrongVPN APP客户端?
 
-StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。如果你使用的是Windows、Mac或Android设备，只需打开StrongVPN官网，选择适用于你设备的APP客户端，并按照系统提示操作即可轻松完成下载和安装，非常简单，没什么好说的。但如果你使用的是苹果iOS设备，则必须先获取一个海外Apple ID账号，才能顺利下载StrongVPN iOS客户端。
+StrongVPN可以完美兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。如果你使用的是Windows、Mac或Android设备，只需打开StrongVPN官网，选择适用于你设备的APP客户端，并按照系统提示操作即可轻松完成下载和安装，非常简单，没什么好说的。但如果你使用的是苹果iOS设备，则必须先准备一个海外Apple ID账号，才能顺利下载StrongVPN iOS客户端。
 
-注意：如果你没有海外Apple ID账号，也不知道如何获取一个海外Apple ID账号的话，请参考《<a href="https://wallvpn.com/apple-id/">美国苹果ID</a>》一文。
+注意：如果你没有海外Apple ID账号，可以参阅《<a href="https://wallvpn.com/apple-id/">美国苹果ID</a>》一文。
 
 <p align="center"><a href="https://wallvpn.com/go/strong-vpn/">访问StrongVPN官网</a></p>
 
@@ -135,7 +135,7 @@ ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年
 
 ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Linux等。如果你使用的是PC端设备，只需打开ExpressVPN官网，便可直接下载对应的APP客户端。对于安卓设备用户，可以通过ExpressVPN官网下载安装包，或者通过Google Play应用商店下载安装APK文件。如果你使用的是iOS设备，需要先准备一个美区Apple ID账号，之后才能在苹果App Store中下载iOS客户端。当下载完成ExpressVPN客户端后，只需按照系统提示逐步操作即可完成安装，整个过程非常简单快捷。
 
-注意：如果你没有美区Apple ID账号，请查阅《<a href="https://wallvpn.com/apple-id/">国外/美国苹果DI</a>》一文。
+注意：如果你没有美区Apple ID账号，可以参阅《<a href="https://wallvpn.com/apple-id/">国外/美国苹果DI</a>》一文。
 
 **第五步：登陆ExpressVPN客户端，一键完成翻墙出国。**
 
